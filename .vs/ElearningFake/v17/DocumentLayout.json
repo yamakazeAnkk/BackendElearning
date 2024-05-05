@@ -3,40 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\CommnetRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningFake\\Repositories\\CommnetRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\repositories\\commnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\repositories\\commnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\contracts\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\contracts\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\viewmodel\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\viewmodel\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\helper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\repositories\\postrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\repositories\\postrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\elearningfake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\elearningfake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\genericmodels\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\genericmodels\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\models\\userclassroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\models\\userclassroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\data\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\models\\classroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\models\\classroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\usernamedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\usernamedtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\userclassroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\userclassroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\contracts\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\contracts\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Migrations\\20240429074051_addGetCommnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningFake\\Migrations\\20240429074051_addGetCommnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\contracts\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\contracts\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +119,12 @@
       "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\CommentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningFake\\Controllers\\CommentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|c:\\users\\tuong\\desktop\\backend\\elearningfake\\elearningfake\\migrations\\20240429074051_addgetcommnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDAD72-4E04-437C-81B0-96B69141FCB2}|ElearningFake\\ElearningFake.csproj|solutionrelative:elearningfake\\migrations\\20240429074051_addgetcommnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,68 +134,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassroomController.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\ClassroomController.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Controllers\\ClassroomController.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\ClassroomController.cs",
-              "RelativeToolTip": "ElearningFake\\Controllers\\ClassroomController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:51:19.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PostRepositoty.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\PostRepositoty.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Repositories\\PostRepositoty.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\PostRepositoty.cs",
-              "RelativeToolTip": "ElearningFake\\Repositories\\PostRepositoty.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwEMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:22:11.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPost.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IPost.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Contracts\\IPost.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IPost.cs",
-              "RelativeToolTip": "ElearningFake\\Contracts\\IPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:21:09.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "ElearningFake\\Controllers\\CommentController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:33:21.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\CommentDTO.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\CommentDTO.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\CommentDTO.cs",
-              "RelativeToolTip": "ElearningFake\\DTOs\\CommentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:01:10.002Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -132,38 +144,365 @@
               "RelativeDocumentMoniker": "ElearningFake\\Repositories\\CommnetRepository.cs",
               "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\CommnetRepository.cs",
               "RelativeToolTip": "ElearningFake\\Repositories\\CommnetRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBYAAACnAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowCMAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T07:21:17.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserClassroomModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\UserClassroomModel.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Models\\UserClassroomModel.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\UserClassroomModel.cs",
+              "RelativeToolTip": "ElearningFake\\Models\\UserClassroomModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:53:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Helper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Helper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Helper\\AutoMapper.cs",
+              "RelativeToolTip": "ElearningFake\\Helper\\AutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:35:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\ViewModel\\CommentViewModel.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\ViewModel\\CommentViewModel.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\ViewModel\\CommentViewModel.cs",
+              "RelativeToolTip": "ElearningFake\\ViewModel\\CommentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:05:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComment.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IComment.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Contracts\\IComment.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IComment.cs",
+              "RelativeToolTip": "ElearningFake\\Contracts\\IComment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:21:09.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PostRepositoty.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\PostRepositoty.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Repositories\\PostRepositoty.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\PostRepositoty.cs",
+              "RelativeToolTip": "ElearningFake\\Repositories\\PostRepositoty.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:22:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\PostModel.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Models\\PostModel.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\PostModel.cs",
+              "RelativeToolTip": "ElearningFake\\Models\\PostModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:52:59.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\GenericModels\\Generics.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\GenericModels\\Generics.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\GenericModels\\Generics.cs",
+              "RelativeToolTip": "ElearningFake\\GenericModels\\Generics.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:04:10.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElearningFake",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ELearningFake\\ElearningFake\\ElearningFake.csproj",
+              "RelativeDocumentMoniker": "ElearningFake\\ElearningFake.csproj",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ELearningFake\\ElearningFake\\ElearningFake.csproj",
+              "RelativeToolTip": "ElearningFake\\ElearningFake.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T06:34:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ELearningFake\\ElearningFake\\Models\\CommentModel.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ELearningFake\\ElearningFake\\Models\\CommentModel.cs",
+              "RelativeToolTip": "ElearningFake\\Models\\CommentModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:43:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:01:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassroomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\ClassroomDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\ClassroomDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\ClassroomDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\ClassroomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:39:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ClassroomRepository.cs",
               "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\ClassroomRepository.cs",
               "RelativeDocumentMoniker": "ElearningFake\\Repositories\\ClassroomRepository.cs",
               "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Repositories\\ClassroomRepository.cs",
               "RelativeToolTip": "ElearningFake\\Repositories\\ClassroomRepository.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAkwDwAAAAJAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:51:35.8Z"
+              "WhenOpened": "2024-04-29T07:51:35.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Program.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Program.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Program.cs",
+              "RelativeToolTip": "ElearningFake\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:09:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassroomModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\ClassroomModel.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Models\\ClassroomModel.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Models\\ClassroomModel.cs",
+              "RelativeToolTip": "ElearningFake\\Models\\ClassroomModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:26:35.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\Classroom.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Data\\Classroom.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\Classroom.cs",
+              "RelativeToolTip": "ElearningFake\\Data\\Classroom.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:00:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ElearningFake\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:25:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "ElearningFake\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:18:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\Comment.cs",
               "RelativeDocumentMoniker": "ElearningFake\\Data\\Comment.cs",
               "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\Comment.cs",
               "RelativeToolTip": "ElearningFake\\Data\\Comment.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:35:02.804Z"
+              "WhenOpened": "2024-05-05T05:44:28.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
+              "Title": "UserNameDTOcs.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserNameDTOcs.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\UserNameDTOcs.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserNameDTOcs.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\UserNameDTOcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:40:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserClassroomDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserClassroomDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\UserClassroomDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserClassroomDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\UserClassroomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:27:41.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:19:05.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ElearningFake\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:55:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:53:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\DTOs\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "ElearningFake\\DTOs\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:53:20.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "ElearningFake\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:33:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IPost.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Contracts\\IPost.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IPost.cs",
+              "RelativeToolTip": "ElearningFake\\Contracts\\IPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:21:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassroomController.cs",
+              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\ClassroomController.cs",
+              "RelativeDocumentMoniker": "ElearningFake\\Controllers\\ClassroomController.cs",
+              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\ClassroomController.cs",
+              "RelativeToolTip": "ElearningFake\\Controllers\\ClassroomController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:51:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "20240429074051_addGetCommnet.cs",
               "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Migrations\\20240429074051_addGetCommnet.cs",
               "RelativeDocumentMoniker": "ElearningFake\\Migrations\\20240429074051_addGetCommnet.cs",
@@ -171,11 +510,12 @@
               "RelativeToolTip": "ElearningFake\\Migrations\\20240429074051_addGetCommnet.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:40:51.994Z"
+              "WhenOpened": "2024-04-29T07:40:51.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\Post.cs",
               "RelativeDocumentMoniker": "ElearningFake\\Data\\Post.cs",
@@ -183,23 +523,12 @@
               "RelativeToolTip": "ElearningFake\\Data\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:35:31.853Z"
+              "WhenOpened": "2024-04-29T07:35:31.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IComment.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IComment.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Contracts\\IComment.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Contracts\\IComment.cs",
-              "RelativeToolTip": "ElearningFake\\Contracts\\IComment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:21:09.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "ElearningFake\\Controllers\\PostController.cs",
@@ -207,19 +536,8 @@
               "RelativeToolTip": "ElearningFake\\Controllers\\PostController.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:34:06.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ElearningFake\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\tuong\\Desktop\\BackEnd\\ElearningFake\\ElearningFake\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ElearningFake\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:25:40.537Z"
+              "WhenOpened": "2024-04-29T07:34:06.776Z",
+              "EditorCaption": ""
             }
           ]
         }

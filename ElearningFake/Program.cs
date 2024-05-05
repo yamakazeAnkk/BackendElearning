@@ -84,6 +84,7 @@ builder.Services.AddHttpContextAccessor();
 
 
 
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

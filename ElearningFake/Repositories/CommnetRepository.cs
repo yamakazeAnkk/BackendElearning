@@ -1,9 +1,12 @@
-﻿using ElearningFake.Contracts;
+﻿using AutoMapper;
+using ElearningFake.Contracts;
 using ElearningFake.Data;
 using ElearningFake.DTOs;
 using ElearningFake.Models;
+using ElearningFake.ViewModel;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
+using System.Xml.Linq;
 
 namespace ElearningFake.Repositories
 {
@@ -11,20 +14,28 @@ namespace ElearningFake.Repositories
     {
         private readonly AppDbContext _AppDbContext;
         private readonly IHttpContextAccessor _HttpContextAccessor;
+        private readonly IMapper _Mapper;
 
-        public CommnetRepository(AppDbContext appDbContext,IHttpContextAccessor httpContextAccessor)
+        public CommnetRepository(AppDbContext appDbContext,IHttpContextAccessor httpContextAccessor,IMapper mapper)
         {
             _AppDbContext = appDbContext;
             _HttpContextAccessor = httpContextAccessor;
+            _Mapper = mapper;
         }
 
-        public async Task<List<Comment>> GetAsync(int id)
+        public async Task<List<CommentViewModel>> GetAsync(int id)
         {
-            List<Comment> comments = await _AppDbContext.Comments.Where(x => x.PostId == id && !x.IsDelete).Select(x=> new Comment { ApplicationUser =x.ApplicationUser}).ToListAsync();
+            
+            var comment = await _AppDbContext.Comments.Where(x => x.PostId == id && !x.IsDelete).Include(x => x.ApplicationUser).ToListAsync();
+            var commentViewModel = comment.Select(comment => new CommentViewModel
             {
-                return comments;
-            }
-            return comments;
+                Description = comment.Description,
+                CreatedAt = comment.CreatedAt,
+                UserName = comment.ApplicationUser != null ? comment.ApplicationUser.UserName : "Unknown"
+            }).ToList();
+            //return _Mapper.Map<List<CommentModel>>(comment);
+            return commentViewModel;
+
         }
 
         public async Task<Comment> PostAsync(CommentDTO comment, int id)
